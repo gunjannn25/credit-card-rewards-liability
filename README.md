@@ -1,7 +1,9 @@
-****Credit Card Rewards Liability & Red**emption Analytics: Quantifying $1.32K of Modeled Outstanding Rewards Liability and Its Key Drivers**
-What This Project Actually Delivered****
+**Credit Card Rewards Liability & Redemption Analytics: Quantifying $1.32K of Modeled Outstanding Rewards Liability and Its Key Drivers**
+
+**What This Project Actually Delivered**
 This project converted 19,963 raw credit-card transactions into a transaction-level rewards-liability model and then used SQL, Python, Excel, and Tableau to explain the resulting exposure.
-****The most useful outputs were:
+
+**The most useful outputs were:**
 - Quantified an estimated $1,319.10 of outstanding rewards liability from the modeled transaction population.
 - Identified that Retail, Grocery, Travel, and Other collectively drive 86.90% of modeled liability, giving a clear view of where rewards exposure is concentrated.
 - Identified Card 3 as the largest liability contributor, representing 55.27% of modeled liability.
