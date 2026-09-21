@@ -97,7 +97,6 @@ Fuel	1
 Retail	1
 Other	1
 
-
 Points issued were calculated from transaction spend × modeled points-per-dollar.
 **3. Rewards Liability Modeling**
 A transaction-level rewards model was created using:
