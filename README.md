@@ -137,7 +137,7 @@ The project applies several business-analysis techniques:
 - Cohort/development analysis: modeled redemption development
 - Sensitivity analysis: impact of different ultimate redemption assumptions
 - KPI analysis: spend, points issued, outstanding points, and modeled liability
-- 
+  
 **6. Visualization**
 The Tableau dashboard focuses on four core views:
 - Monthly Modeled Rewards Liability
