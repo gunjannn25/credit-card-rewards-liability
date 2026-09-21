@@ -1,0 +1,14 @@
+metric,value
+rows,19963
+unique_users,1
+unique_cards,5
+date_start,2002-09-01
+date_end,2020-02-28
+total_spend_usd,1622991.69
+avg_transaction_usd,81.299989480539
+fraud_transactions,27
+fraud_rate,0.0013525021289385363
+spend_transaction_correlation,0.9371720871073184
+regression_intercept,-821.4994825089295
+regression_spend_per_transaction,109.8588554255972
+regression_r_squared,0.8782915208530868
